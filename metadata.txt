@@ -8,12 +8,12 @@ qgisMinimumVersion=3.0
 description=Calculating the best route between two chosen point in terrain conditions.
 version=0.1
 author=Zsofia Sarközy
-email=sarkozyzsofi@student.elte.hu
+email=sarkozy.zsofi@inf.elte.hu
 
 about=The plugin calculates the best route between two chosen points under terrain conditions, based on chosen input raster layers of the area.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/sarkozyzsofi/routeplanning/issues
+repository=https://github.com/sarkozyzsofi/routeplanning
 # End of mandatory metadata
 
 # Recommended items:
